@@ -1,0 +1,12 @@
+# Larsen & Toubro Construction
+## Temporary Works Design Check Category Allocation Matrix
+### In Compliance with BS 5975:2019, PAS 8811:2014 & L&T Corporate EHS Directives
+
+---
+
+| Category | Consequence & Complexity | Design Check Independence Requirements | Typical Temporary Structural Typologies |
+|:---:|---|---|---|
+| **Cat 0** | **Low Risk / Simple Standard**<br>Standard proprietary catalog systems used without modification in standard configurations. Negligible risk of collapse or injury. | **Site Engineer / Supervisor**<br>Visual check against manufacturer tables, catalogs, or standard approved standard drawings. | • Standard trench boxes <= 1.5m<br>• Off-the-shelf single-tier props <= 3m<br>• Standard edge protection handrails<br>• Standard mobile access towers |
+| **Cat 1** | **Medium Risk / Bespoke Combinations**<br>Standard components arranged in bespoke configurations. Moderate consequence of failure. Non-complex site conditions. | **Independent Engineer in same unit**<br>Checked by an engineer within the same project team or design office who was NOT involved in the original design. | • Cup-lock staging towers <= 6m height<br>• Retaining shoring <= 3m depth<br>• Cantilever bracket working platforms<br>• Secondary pier cap falsework<br>• Crane outrigger timber pads |
+| **Cat 2** | **High Risk / Complex Bespoke**<br>Complex temporary structures, high load concentrations, significant consequence of structural failure, or deep soil interaction. | **Independent Design Team**<br>Checked by an independent design team (e.g. separate EDRC / CMPD group) not involved in original concept, with full independent structural model. | • Heavy bridge staging towers > 6m<br>• Station D-wall multi-tier strutting<br>• Sheet pile cofferdams with tremie plug<br>• Custom steel pier formwork shutters<br>• Heavy crane loading decks<br>• Bridge pier friction collar brackets |
+| **Cat 3** | **Major / Catastrophic Risk**<br>Very complex, innovative, or unprecedented temporary schemes. Catastrophic consequences if failed (loss of life, mega infrastructure collapse). | **External Proof Consultant**<br>Completely independent accredited engineering firm / Proof Consultant, using independent software, drawings, and methodology. | • Segmental Launching Gantries (LG)<br>• Form Travelers (FT / CLC)<br>• 1000-Ton Full Span Equipment (FSLE)<br>• Marine temporary piling jetties<br>• Cable-stayed bridge pylon gantries<br>• Tunnel temporary bulkheads / plugs |
